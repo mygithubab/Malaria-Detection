@@ -9,3 +9,8 @@ In this project , I used Convolutional Neural Network to classify the Malaria ce
 The dataset is taken from the [Malaria Dataset](https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria) from Kaggle.
 
 The dataset has a total of 27558 images in which 17636 were used for training, 4410 for validation and 5512 for testing.
+
+
+### Confusion Matrix
+
+![mat](https://user-images.githubusercontent.com/25201420/57249378-67ace200-7062-11e9-94d0-12c951ef1c1b.png)
